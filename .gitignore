@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python environment and package manager files
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+Pipfile.lock
+poetry.lock
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Project-specific temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# IDE / editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pygame temp files
+pygame.log
+
+# Numpy cache and memory-map files
+.npy
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Misc
+coverage.xml
