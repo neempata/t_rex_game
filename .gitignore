@@ -25,7 +25,6 @@ downloads/
 *.egg-info/
 .installed.cfg
 *.egg
-# PyInstaller
 *.spec
 
 # Unit test / coverage reports
