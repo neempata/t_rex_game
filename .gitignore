@@ -20,7 +20,7 @@ poetry.lock
 build/
 dist/
 downloads/
-eggs/
+
 .eggs/
 *.egg-info/
 .installed.cfg
